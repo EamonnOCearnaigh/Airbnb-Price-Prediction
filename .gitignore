@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+
+# Don't commit csv files.
+*.csv
