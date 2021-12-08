@@ -5,8 +5,8 @@ Using Machine Learning techniques and public datasets to predict Airbnb listing 
 
 Team:
 
-Hui Zheng
-Emre Dogan
+Hui Zheng, 
+Emre Dogan, 
 Éamonn Ó Cearnaigh ("Kearney")
 
 Source of Data:
