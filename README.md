@@ -1,5 +1,13 @@
-# WorkingTitle
-University Project: Introduction to Artificial Intelligence
+# Airbnb-Price-Prediction
+University Project - Introduction to Artificial Intelligence
+
+Using Machine Learning techniques and public datasets to predict Airbnb listing prices
+
+Team:
+
+Hui Zheng
+Emre Dogan
+Éamonn Ó Cearnaigh ("Kearney")
 
 Source of Data:
 
