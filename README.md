@@ -5,9 +5,9 @@ Using Machine Learning techniques and public datasets to predict Airbnb listing 
 
 Team:
 
-Hui Zheng - 180050921, 
-Emre Dogan - 180010270, 
-Éamonn Ó Cearnaigh ("Kearney") - 180001598
+- Hui Zheng - 180050921, 
+- Emre Dogan - 180010270, 
+- Éamonn Ó Cearnaigh ("Kearney") - 180001598
 
 Source of Data:
 
