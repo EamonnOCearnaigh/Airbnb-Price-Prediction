@@ -15,4 +15,5 @@ http://data.insideairbnb.com/united-kingdom/england/london/2020-11-06/data/listi
 
 As our notebook got bigger, it was taking a long time to load and we also encountered merge conflict issues a couple of times, so we split up the workings into a couple of notebooks.
 
-The main one to look at will be Data Analysis - final and Neural Networks.
+The main one to look at will be Data Analysis - final.ipynb and NeuralNetwork.ipynb
+For the Exploratory Data Analysis, please refer to EDA.ipynb
