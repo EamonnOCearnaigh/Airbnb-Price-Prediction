@@ -1,5 +1,5 @@
 # Airbnb-Price-Prediction
-University Project - Introduction to Artificial Intelligence
+Team Project
 
 Using Machine Learning techniques and public datasets to predict Airbnb listing prices
 
